@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: rgb(232, 98, 187);
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -20,15 +20,15 @@ html{
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: rgb(248, 230, 245 );
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 20px;
 }
 
 .pic{
-  height: 600px;
-  width: 400px;
+  height: 400px;
+  width: 600px;
   object-fit: cover;
   border: 1px solid black;
 }
